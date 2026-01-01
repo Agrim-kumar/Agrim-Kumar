@@ -1,4 +1,4 @@
-# Hi 👋, I'm Agrim Kumar
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> , I'm Agrim Kumar
 ### Full-Stack Developer | MERN Stack | Problem Solver
 
 I am a Full-Stack Developer with an engineering mindset. I specialize in building robust web applications with a focus on user experience and clean backend architecture.
